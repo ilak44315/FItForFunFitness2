@@ -1,2 +1,2 @@
-# MY GIT PROJECT
+# FitFunFitness Project
 ## KALI CAMPBELL
